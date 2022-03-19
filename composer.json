@@ -1,5 +1,5 @@
 {
-    "name": "cartalyst/sentinel",
+    "name": "leonardcodep/sentinel",
     "description": "PHP 7.3+ Fully-featured Authentication & Authorization System",
     "keywords": [
         "php",
@@ -23,11 +23,11 @@
     },
     "require-dev": {
         "cartalyst/php-cs-fixer-config": "^1.0",
-        "illuminate/cookie": "^8.0",
-        "illuminate/database": "^8.0",
-        "illuminate/events": "^8.0",
-        "illuminate/http": "^8.0",
-        "illuminate/session": "^8.0",
+        "illuminate/cookie": "^8.0|^9.0",
+        "illuminate/database": "^8.0|^9.0",
+        "illuminate/events": "^8.0|^9.0",
+        "illuminate/http": "^8.0|^9.0",
+        "illuminate/session": "^8.0|^9.0",
         "mockery/mockery": "^1.0",
         "phpunit/phpunit": "^9.0"
     },
